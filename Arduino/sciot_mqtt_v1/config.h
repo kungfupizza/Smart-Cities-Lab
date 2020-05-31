@@ -8,7 +8,7 @@
 #define VALVE 2
 
 const char ssid[] = "SmartPlant";
-const char pass[] = "smarterPlants";
+const char pass[] = "**********";
 
 String sensorTopic = "sensor/";
 String actuatorTopic = "actuator/";
